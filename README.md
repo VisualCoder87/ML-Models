@@ -32,5 +32,5 @@ Welcome to the **ML Models Collection** repository! This repository contains a v
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ML-Models.git
+   git clone https://github.com/VisualCoder87/ML-Models.git
 
