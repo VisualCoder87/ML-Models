@@ -10,11 +10,11 @@ Welcome to the **ML Models Collection** repository! This repository contains a v
 
 | Project | Description |
 |--------|-------------|
-| [IRIS Flower Classification](IRIS Classifier) | Classifies Iris flower species using classical ML algorithms. A classic multi-class classification problem. |
-| [Movie Rating Prediction](./Movie-Rating-Prediction) | Predicts movie ratings using regression techniques based on various features. |
-| [Sales Prediction](./Sales-Prediction) | Time series or linear regression-based prediction of future sales using historical data. |
-| [Titanic Survival Prediction](./Titanic-Survival-Prediction) | Predicts whether a passenger survived the Titanic disaster using supervised learning (classification). |
-| [IMDB Sentiment Analysis with GUI](./IMDB-Sentiment-Analysis-GUI) | Performs sentiment analysis on IMDB movie reviews and presents results via a simple GUI. |
+| [IRIS Flower Classification](./IRIS-Classifier) | Classifies Iris flower species using classical ML algorithms. A classic multi-class classification problem. |
+| [Movie Rating Prediction](./Movie-rating) | Predicts movie ratings using regression techniques based on various features. |
+| [Sales Prediction](./Sales-Predictor-Model) | Time series or linear regression-based prediction of future sales using historical data. |
+| [Titanic Survival Prediction](./Titanic-Servival-predictor) | Predicts whether a passenger survived the Titanic disaster using supervised learning (classification). |
+| [IMDB Sentiment Analysis with GUI](./IMDB-Model-with-GUI) | Performs sentiment analysis on IMDB movie reviews and presents results via a simple GUI. |
 
 ---
 
